@@ -85,10 +85,9 @@ object FunctionalProgramming extends App{
 
   //MAPS
   val aPhoneBook: Map[String, Int] = Map(
-    "John", 8349873
-    "Daniel" -> 874923
+    ("John", 8349873)
+    ("Daniel" -> 874923)
   )
-
 
 
 
